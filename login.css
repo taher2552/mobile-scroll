@@ -59,14 +59,14 @@ body{
 }
 
 .main-logo {
-    margin-top: 1rem;
+    margin-top: 0.8rem;
 }
 
 .main-welcome {
     color: #000;
     font-size: 1.375rem;
     font-weight: 600;
-    margin-bottom: 0.9rem;
+    margin-bottom: 0.8rem;
 
 }
 
@@ -93,7 +93,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: start;
-    margin: 1rem;
+    margin:0.9rem 1rem;
     padding: 0.6rem;
     cursor: pointer;
 }
@@ -163,7 +163,7 @@ body{
 
 .button-login {
     width: 100%; 
-    margin-top: 1rem; 
+    margin-top: 0.9rem; 
     border: 1px solid var(--acc-color);
     color: var(--acc-color);
 }
